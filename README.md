@@ -42,7 +42,7 @@ Finally, on the node, create a .toml file:
 
 ```toml
 [attributes]
-environment_id = `staging`
+environment_id = 'staging'
 ```
 
 Apply that configuration to the service group of your effortless infra package.
