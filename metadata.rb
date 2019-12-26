@@ -1,4 +1,4 @@
-name 'environment-hoist'
+name 'effortless-hoist'
 version '1.0.0'
 description 'utomatically hoist environment level-attributes from Policyfiles in the Effortless pattern'
 maintainer 'Gregory Sloan'
